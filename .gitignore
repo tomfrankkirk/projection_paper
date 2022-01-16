@@ -1,0 +1,16 @@
+.ipynb_checkpoints 
+.DS_Store
+*.nc
+*.aux 
+*.png 
+*.pdf 
+*.bbl
+*.blg 
+*.out
+*.spl
+*.synctex.gz
+~$*
+*.sty
+*.fls
+*.log 
+*.fdb_latexmk
